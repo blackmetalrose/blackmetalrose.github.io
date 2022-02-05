@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>The green firefly</title>
+    <link href="https://blackmetalrose.github.io/feed.xml" rel="self" />
+    <link href="https://blackmetalrose.github.io" />
+    <updated>2022-02-05T16:44:03+13:00</updated>
+    <author>
+        <name>Emily Yap Juet Yen</name>
+    </author>
+    <id>https://blackmetalrose.github.io</id>
+
+    <entry>
+        <title>Little penguin (</title>
+        <author>
+            <name>Emily Yap Juet Yen</name>
+        </author>
+        <link href="https://blackmetalrose.github.io/little-penguin.html"/>
+        <id>https://blackmetalrose.github.io/little-penguin.html</id>
+
+        <updated>2022-01-30T00:08:36+13:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About </title>
+        <author>
+            <name>Emily Yap Juet Yen</name>
+        </author>
+        <link href="https://blackmetalrose.github.io/about.html"/>
+        <id>https://blackmetalrose.github.io/about.html</id>
+
+        <updated>2022-02-05T16:44:03+13:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello, my name is Emily Yap and this is a new blog I've created! A little about me, I m studying Ecology and Zoology and I am currently working on my Masters project on the Little penguin in Aotearoa New Zealand. I grew up in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left">Hello, my name is Emily Yap and this is a new blog I've created! A little about me, I m studying Ecology and Zoology and I am currently working on my Masters project on the Little penguin in Aotearoa New Zealand. I grew up in Malaysia, the country of really good food and I love spending my time outside, painting with watercolour and eating fried chicken. </p>
+<p>I started this blog with the intention to have a platform where I can share a bit of my research and my studies, but also to talk about different topics relating on conservation and the environment. The earth and the people on it are pretty important to me, and so I hope to share some of my thoughts and discoveries with you while I journey. </p>
+<p><em><span class="text John-1-1"><span class="chapternum">"</span>In the beginning was the Word, and the Word was with God, and the Word was God.</span> <span id="en-NIV-26047" class="text John-1-2"><sup class="versenum">2 </sup>He was with God in the beginning.</span> <span id="en-NIV-26048" class="text John-1-3"><sup class="versenum">3 </sup>Through him all things were made; without him nothing was made that has been made.</span> <span id="en-NIV-26049" class="text John-1-4"><sup class="versenum">4 </sup>In him was life, and that life was the light of all mankind.</span> <span id="en-NIV-26050" class="text John-1-5"><sup class="versenum">5 </sup>The light shines in the darkness, and the darkness has not overcome it."</span></em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Introduction to Narwhals</title>
+        <author>
+            <name>Emily Yap Juet Yen</name>
+        </author>
+        <link href="https://blackmetalrose.github.io/introduction-to-narwhals.html"/>
+        <id>https://blackmetalrose.github.io/introduction-to-narwhals.html</id>
+
+        <updated>2022-01-28T17:08:08+13:00</updated>
+            <summary>
+                <![CDATA[
+                    Narwhals or Narwhales are one of the two species from the family Monodontidae, (Monodon monoceros). These whales are unique -left helical - Greek meaning, “one-tooth one-horn.” -travels -status 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Narwhals or Narwhales are one of the two species from the<span style="color: #000000;"> <a href="https://en.wikipedia.org/wiki/Family_(biology)" title="Family (biology)" style="color: #000000;">family</a> <a href="https://en.wikipedia.org/wiki/Monodontidae" title="Monodontidae" style="color: #000000;">Monodontidae</a>, (<i>Monodon monoceros</i>). These whales are unique</span></p>
+<p>-left helical </p>
+<p>- Greek meaning, “one-tooth one-horn.”</p>
+<p>-travels</p>
+<p>-status</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
